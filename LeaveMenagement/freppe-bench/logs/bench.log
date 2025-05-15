@@ -1,0 +1,48 @@
+2025-05-09 11:44:38,073 DEBUG cd freppe-bench && python3 -m venv env
+2025-05-09 11:44:40,285 DEBUG cd freppe-bench && /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-05-09 11:44:41,602 DEBUG cd freppe-bench && /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/env/bin/python -m pip install --quiet wheel
+2025-05-09 11:44:42,023 LOG Getting frappe
+2025-05-09 11:44:42,023 DEBUG cd freppe-bench/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2025-05-09 11:45:13,112 LOG Installing frappe
+2025-05-09 11:45:13,112 DEBUG cd /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench && /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/env/bin/python -m pip install --quiet --upgrade -e /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/apps/frappe 
+2025-05-09 11:45:39,369 DEBUG cd /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/apps/frappe && yarn install --check-files
+2025-05-09 11:45:44,734 DEBUG cd freppe-bench && bench build
+2025-05-09 11:45:44,868 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench build
+2025-05-09 11:45:57,225 LOG setting up backups
+2025-05-09 11:45:57,264 LOG backups were set up
+2025-05-09 11:45:57,264 INFO Bench freppe-bench initialized
+2025-05-09 11:46:25,810 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench new-app leave-management
+2025-05-09 11:46:25,814 LOG creating new app leave_management
+2025-05-09 11:47:25,092 LOG Installing leave_management
+2025-05-09 11:47:25,093 DEBUG cd /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench && /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/env/bin/python -m pip install --quiet --upgrade -e /Users/upforcetech/Desktop/FrappeProjects/LeaveMenagement/freppe-bench/apps/leave_management 
+2025-05-09 11:47:26,205 DEBUG bench build --app leave_management
+2025-05-09 11:47:26,287 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench build --app leave_management
+2025-05-09 11:48:04,952 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench new-site leave.local
+2025-05-09 11:50:33,194 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site leave.local install-app leave_management
+2025-05-09 11:51:06,471 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site install apps-list
+2025-05-09 11:51:12,863 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site install apps-list
+2025-05-09 11:52:02,068 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site leave.local list-apps
+2025-05-09 11:52:28,993 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site leave.local add-to-host
+2025-05-09 11:52:33,289 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site leave.local add-to-hosts
+2025-05-09 11:53:02,949 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench use leave.local
+2025-05-09 11:53:07,709 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-09 11:53:07,960 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-09 11:53:07,971 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-09 11:53:07,972 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-09 11:53:07,979 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-09 12:00:01,367 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-09 18:00:00,944 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-10 00:00:00,847 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-10 12:00:00,794 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-10 18:00:00,807 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-11 12:00:00,990 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-11 18:00:07,753 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-12 00:00:01,308 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-12 12:00:01,144 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-12 18:00:01,067 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-13 12:00:01,051 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-13 18:00:01,024 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 00:00:01,418 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 12:00:00,736 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 18:00:01,331 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-15 00:00:06,983 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup

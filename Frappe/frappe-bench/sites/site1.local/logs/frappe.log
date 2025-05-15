@@ -1,0 +1,162 @@
+2025-04-29 17:38:34,093 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:38:34,137 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:43:24,643 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:43:24,691 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:43:26,518 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:43:26,570 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:51:26,660 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:51:26,699 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:51:31,104 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:51:31,171 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:51:36,352 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 17:51:36,411 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 18:17:20,091 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 18:17:20,131 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 18:17:21,864 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-29 18:17:21,913 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {}
+2025-04-30 15:01:20,487 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-lnbxhlllbg","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"Default value"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:01:31,750 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-lnbxhlllbg","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"Default value","custom_library":"barcode"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:01:53,979 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-lnbxhlllbg","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"Default value","custom_library":"Library","color_veco":"#449CF0"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:06:29,426 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-tudvvopfzh","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"barcode","custom_library":"barcode"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:16:48,957 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-mtaycjumip","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"\\"Barcode test\\""}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:16:54,808 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-mtaycjumip","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"\\"Barcode test\\"","custom_library":"ijfiutjh"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:17:32,473 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-ptzpoozkxp","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"komal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 15:17:42,620 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Doctype","name":"new-library-doctype-ptzpoozkxp","__islocal":1,"__unsaved":1,"owner":"Administrator","barcode":"komal","custom_library":"komal"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-30 17:12:04,562 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'recipients': 'komal612412@gmail.com', 'subject': 'Property (#Property)', 'content': '<div class="ql-editor read-mode"><p><br></p></div>', 'doctype': 'DocType', 'name': 'Property', 'send_email': '1', 'print_html': '', 'send_me_a_copy': '0', 'print_format': '', 'attachments': '[]', 'read_receipt': '0', 'print_letterhead': '1', 'send_after': '', 'print_language': 'en', 'cmd': 'frappe.core.doctype.communication.email.make'}
+2025-05-01 16:16:44,488 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doctype': 'Workspace', 'docname': 'My Custom Standard Workspace', 'name': 'PRograming Workspace', 'enqueue': 'true', 'merge': '0', 'freeze': 'true', 'freeze_message': 'Updating related fields...', 'cmd': 'frappe.model.rename_doc.update_document_title'}
+2025-05-02 14:45:48,617 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doctype': 'ServerSideScript Doctype', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2025-05-02 14:46:19,650 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-xtrdclegyn","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"first_name":"ed","middle_name":"f ","last_name":"s"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 14:46:48,734 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-xtrdclegyn","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"first_name":"ed","middle_name":"f ","last_name":"s"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 14:48:25,485 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-niztnhirfp","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"first_name":"jaj","middle_name":"join","last_name":"mlkoko"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 14:50:00,212 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-ggylydtdiz","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"first_name":"jk","middle_name":"drift","last_name":"pork"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 14:50:21,656 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-ggylydtdiz","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"first_name":"jk","middle_name":"drift","last_name":"pork"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:09:51,335 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-earlwbqbyf","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[{"docstatus":0,"doctype":"Family members","name":"new-family-members-dccqwsxngv","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-serversidescript-doctype-earlwbqbyf","parentfield":"family_members","parenttype":"ServerSideScript Doctype","idx":1,"__unedited":false,"name1":"komal","relation":"daughter of Parmar","age":"24","__checked":1}]}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:11:02,256 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-ykthsjnnxf","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[{"docstatus":0,"doctype":"Family members","name":"new-family-members-snxnemxqyd","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-serversidescript-doctype-ykthsjnnxf","parentfield":"family_members","parenttype":"ServerSideScript Doctype","idx":1,"__unedited":false,"name1":"ji","relation":"hjdu","age":"34"}]}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:12:15,476 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-ekblftdzss","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[{"docstatus":0,"doctype":"Family members","name":"new-family-members-odfcspormq","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-serversidescript-doctype-ekblftdzss","parentfield":"family_members","parenttype":"ServerSideScript Doctype","idx":1,"__unedited":false,"name1":"kook","relation":"asjhieo","age":"99"}]}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:22:55,070 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-wwpoonbmvs","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"client_side_doc":"PR-0001"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:24:50,218 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-eypmdmdvyv","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"client_side_doc":"PR-0002"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:25:33,732 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-eypmdmdvyv","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"client_side_doc":"PR-0002"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:25:43,821 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-dcdeadgkek","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"client_side_doc":"PR-0002"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:27:30,573 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-feabhcotzn","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"client_side_doc":"PR-0004"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 15:28:38,299 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-ykqehbfxfm","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"client_side_doc":"PR-0001"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 16:03:20,943 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"name":"SR-0014","owner":"Administrator","creation":"2025-05-02 15:59:56.469389","modified":"2025-05-02 15:59:56.469389","modified_by":"Administrator","docstatus":0,"idx":0,"amended_from":null,"enable":0,"client_side_doc":null,"first_name":null,"middle_name":null,"last_name":null,"full_name":null,"email":null,"phone_no":null,"dob":null,"age":0,"doctype":"ServerSideScript Doctype","family_members":[],"__last_sync_on":"2025-05-02T10:29:56.563Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 16:04:11,235 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"name":"SR-0014","owner":"Administrator","creation":"2025-05-02 15:59:56.469389","modified":"2025-05-02 15:59:56.469389","modified_by":"Administrator","docstatus":0,"idx":0,"enable":0,"age":0,"doctype":"ServerSideScript Doctype","family_members":[],"__last_sync_on":"2025-05-02T10:34:06.043Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 16:05:15,636 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"name":"SR-0014","owner":"Administrator","creation":"2025-05-02 15:59:56.469389","modified":"2025-05-02 15:59:56.469389","modified_by":"Administrator","docstatus":0,"idx":0,"enable":0,"age":0,"doctype":"ServerSideScript Doctype","family_members":[],"__last_sync_on":"2025-05-02T10:35:11.760Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 16:22:45,253 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doc': '{"name":"SR-0014","owner":"Administrator","creation":"2025-05-02 15:59:56.469389","modified":"2025-05-02 16:16:47.679476","modified_by":"Administrator","docstatus":0,"idx":0,"enable":0,"age":0,"doctype":"ServerSideScript Doctype","family_members":[],"__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-02 18:53:34,971 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'msg': 'hello', 'docs': '{"docstatus":0,"doctype":"ServerSideScript Doctype","name":"new-serversidescript-doctype-mqvdagouos","__islocal":1,"__unsaved":1,"owner":"Administrator","enable":0,"family_members":[],"idx":0,"phone_no":"9089067456","age":0}', 'method': 'frm_call', 'args': '{"msg":"hello"}', 'cmd': 'run_doc_method'}
+2025-05-02 19:03:15,101 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'doctype': 'ServerSideScript Doctype', 'name': 'SR-0014', 'format': 'Standard', 'no_letterhead': '1', 'letterhead': 'No Letterhead', 'settings': '{}', '_lang': 'en', 'cmd': 'frappe.utils.print_format.download_pdf', 'pdf_generator': 'wkhtmltopdf'}
+2025-05-03 15:29:05,540 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'report_name': 'ServerSideScript Query Report', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2025-05-03 15:31:44,282 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'report_name': 'ServerSideScript Query Report', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2025-05-03 15:35:27,543 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'report_name': 'ServerSideScript Query Report', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2025-05-03 15:49:17,093 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'txt': '', 'doctype': 'ServerSideScript doctype', 'reference_doctype': '', 'page_length': '10', 'cmd': 'frappe.desk.search.search_link'}
+2025-05-03 15:49:31,536 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'txt': '', 'doctype': 'ServerSideScript doctype', 'reference_doctype': '', 'page_length': '10', 'cmd': 'frappe.desk.search.search_link'}
+2025-05-03 15:51:12,208 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'txt': '', 'doctype': 'ServerSideScript doctype', 'reference_doctype': '', 'page_length': '10', 'cmd': 'frappe.desk.search.search_link'}
+2025-05-03 15:52:28,047 ERROR frappe New Exception collected in error log
+Site: site1.local
+Form Dict: {'txt': '', 'doctype': 'ServerSideScript doctype', 'reference_doctype': '', 'page_length': '10', 'cmd': 'frappe.desk.search.search_link'}

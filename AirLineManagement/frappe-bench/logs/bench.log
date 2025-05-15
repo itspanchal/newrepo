@@ -1,0 +1,156 @@
+2025-05-13 15:22:15,949 DEBUG cd frappe-bench && python3 -m venv env
+2025-05-13 15:22:18,213 DEBUG cd frappe-bench && /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-05-13 15:22:19,480 DEBUG cd frappe-bench && /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/env/bin/python -m pip install --quiet wheel
+2025-05-13 15:22:19,916 LOG Getting frappe
+2025-05-13 15:22:19,916 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2025-05-13 15:22:50,948 LOG Installing frappe
+2025-05-13 15:22:50,948 DEBUG cd /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench && /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/apps/frappe 
+2025-05-13 15:23:10,688 DEBUG cd /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/apps/frappe && yarn install --check-files
+2025-05-13 15:23:16,068 DEBUG cd frappe-bench && bench build
+2025-05-13 15:23:16,196 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench build
+2025-05-13 15:23:28,468 LOG setting up backups
+2025-05-13 15:23:28,507 LOG backups were set up
+2025-05-13 15:23:28,507 INFO Bench frappe-bench initialized
+2025-05-13 15:23:28,679 INFO A newer version of bench is available: 5.24.1 → 5.25.1
+2025-05-13 15:26:21,630 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 15:26:22,013 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 15:26:22,016 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 15:26:22,017 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 15:26:22,018 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 15:27:16,232 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench new-app airplane_mode
+2025-05-13 15:27:16,235 LOG creating new app airplane_mode
+2025-05-13 15:28:06,020 LOG Installing airplane_mode
+2025-05-13 15:28:06,021 DEBUG cd /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench && /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /Users/upforcetech/Desktop/FrappeProjects/AirLineManagement/frappe-bench/apps/airplane_mode 
+2025-05-13 15:28:07,281 DEBUG bench build --app airplane_mode
+2025-05-13 15:28:07,379 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench build --app airplane_mode
+2025-05-13 15:28:09,059 INFO A newer version of bench is available: 5.24.1 → 5.25.1
+2025-05-13 15:28:44,530 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench new-site airline.local
+2025-05-13 15:33:49,307 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local install-app airplane_mode
+2025-05-13 15:34:09,053 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local list-apps
+2025-05-13 15:34:26,906 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 15:34:27,174 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 15:34:27,179 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 15:34:27,180 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 15:34:27,181 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 15:35:44,705 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench set-config -g developer_mode true
+2025-05-13 15:36:57,108 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench use airline.local
+2025-05-13 15:37:35,629 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 15:37:35,884 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 15:37:35,884 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 15:37:35,905 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 15:37:35,909 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 15:39:23,855 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local add-to-hosts
+2025-05-13 15:39:34,909 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 15:39:35,213 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 15:39:35,219 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 15:39:35,220 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 15:39:35,224 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 15:57:18,664 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 15:57:18,943 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 15:57:18,967 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 15:57:18,967 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 15:57:18,968 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 17:22:26,685 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 17:22:26,998 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 17:22:26,999 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 17:22:27,005 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 17:22:27,016 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 17:43:48,602 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-13 17:43:48,896 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-13 17:43:48,906 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-13 17:43:48,923 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-13 17:43:48,924 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-13 18:00:01,024 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 00:00:01,418 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 12:00:00,736 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 12:10:48,148 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local mariadb
+2025-05-14 13:02:16,945 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench console
+2025-05-14 13:02:54,762 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 13:02:55,069 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 13:02:55,069 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 13:02:55,071 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 13:02:55,077 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 13:05:45,630 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local mariadb
+2025-05-14 17:59:16,300 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local migrate
+2025-05-14 18:00:01,331 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-14 18:00:19,543 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 18:00:19,847 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 18:00:19,848 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 18:00:19,849 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 18:00:19,857 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 18:00:59,058 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local migrate
+2025-05-14 18:13:57,623 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 18:13:57,867 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 18:13:57,878 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 18:13:57,879 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 18:13:57,881 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 18:22:27,937 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 18:22:28,185 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 18:22:28,190 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 18:22:28,211 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 18:22:28,219 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 18:23:00,763 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench list-apps
+2025-05-14 18:23:07,559 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench clear-cache
+2025-05-14 18:23:12,605 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench restart
+2025-05-14 18:23:12,851 INFO A newer version of bench is available: 5.24.1 → 5.25.1
+2025-05-14 18:23:21,609 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 18:23:21,856 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 18:23:21,867 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 18:23:21,869 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 18:23:21,873 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 18:27:25,253 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench clear-cache
+2025-05-14 18:27:26,020 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench restart
+2025-05-14 18:27:26,207 INFO A newer version of bench is available: 5.24.1 → 5.25.1
+2025-05-14 18:27:30,450 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 18:27:30,687 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 18:27:30,696 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 18:27:30,705 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 18:27:30,734 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 19:07:16,162 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 19:07:16,410 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 19:07:16,418 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 19:07:16,420 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 19:07:16,433 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 21:21:16,680 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 21:21:17,003 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 21:21:17,010 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 21:21:17,010 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 21:21:17,015 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 21:25:17,778 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench restart
+2025-05-14 21:25:18,204 INFO A newer version of bench is available: 5.24.1 → 5.25.1
+2025-05-14 21:25:23,549 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 21:25:23,800 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 21:25:23,801 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 21:25:23,804 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 21:25:23,819 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 23:16:57,388 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 23:16:57,651 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 23:16:57,655 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 23:16:57,656 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 23:16:57,680 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 23:17:53,078 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local logs error.log
+2025-05-14 23:18:57,472 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench restart
+2025-05-14 23:18:57,799 INFO A newer version of bench is available: 5.24.1 → 5.25.1
+2025-05-14 23:19:05,458 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-14 23:19:05,710 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-14 23:19:05,715 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-14 23:19:05,718 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-14 23:19:05,727 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-14 23:51:22,865 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench console
+2025-05-15 00:00:06,988 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --verbose --site all backup
+2025-05-15 01:21:20,905 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-15 01:21:21,199 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-15 01:21:21,200 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-15 01:21:21,227 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker
+2025-05-15 01:21:21,236 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-15 01:21:28,600 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench --site airline.local export-fixtures
+2025-05-15 08:22:17,429 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench build
+2025-05-15 08:22:44,233 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench clear-cache
+2025-05-15 08:24:12,262 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench clear-cache
+2025-05-15 08:24:19,981 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-15 08:24:35,025 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench build
+2025-05-15 08:25:05,963 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench start
+2025-05-15 08:25:06,220 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench serve --port 8000
+2025-05-15 08:25:06,225 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench watch
+2025-05-15 08:25:06,225 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench schedule
+2025-05-15 08:25:06,230 INFO /Users/upforcetech/.pyenv/versions/3.11.8/bin/bench worker

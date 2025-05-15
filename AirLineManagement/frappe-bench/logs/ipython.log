@@ -1,0 +1,27 @@
+2025-05-14 13:02:45,570 INFO ipython === bench console session ===
+2025-05-14 13:02:45,571 INFO ipython def delete_duplicate_items():
+    from collections import defaultdict
+
+    # Step 1: Get all records (item + parent)
+    records = frappe.db.get_all("Airplane Ticket Add-on Item", fields=["name", "item", "parent"], order_by="creation asc")
+
+    # Step 2: Track first occurrence of each (item, parent)
+    seen = set()
+
+    for record in records:
+        key = (record["item"], record["parent"])
+
+        if key in seen:
+            # Duplicate found, delete it
+            frappe.delete_doc("Airplane Ticket Add-on Item", record["name"], force=True)
+            print(f"Deleted duplicate item '{record['item']}' for ticket '{record['parent']}'")
+        else:
+            seen.add(key)
+2025-05-14 13:02:45,571 INFO ipython === session end ===
+2025-05-15 01:21:25,151 INFO ipython === bench console session ===
+2025-05-15 01:21:25,152 INFO ipython frappe.get_doc("Airplane Flight", "AirAsia-002").route
+2025-05-15 01:21:25,152 INFO ipython frappe.get_doc("Airplane Flight", "flights/AirAsia-002").route
+2025-05-15 01:21:25,152 INFO ipython frappe.get_doc("Airplane Flight", "flights/AirAsia-002")
+2025-05-15 01:21:25,153 INFO ipython frappe.get_doc("Airplane Flight", "AirAsia-002-05-2025-00012")
+2025-05-15 01:21:25,153 INFO ipython frappe.get_doc("Airplane Flight", "AirAsia-002-05-2025-00012").route
+2025-05-15 01:21:25,153 INFO ipython === session end ===

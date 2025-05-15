@@ -1,0 +1,127 @@
+2025-05-01 15:24:02,225 INFO ipython === bench console session ===
+2025-05-01 15:24:02,225 INFO ipython import frappe
+2025-05-01 15:24:02,226 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Custom App",  # Or any module you want
+    "title": "My Custom Workspace",
+    "is_standard": 0,
+    "public": 1,
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 15:24:02,226 INFO ipython import frappe
+2025-05-01 15:24:02,226 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "erpnext",  # or any valid module name
+    "title": "My Custom Workspace",
+    "is_standard": 0,
+    "public": 1,
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 15:24:02,227 INFO ipython === session end ===
+2025-05-01 16:01:38,993 INFO ipython === bench console session ===
+2025-05-01 16:01:38,995 INFO ipython import frappe
+2025-05-01 16:01:38,995 INFO ipython frappe.get_all("Module Def", fields=["module_name"])
+2025-05-01 16:01:38,996 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",  # or another valid Module Def name
+    "title": "My Custom Workspace",
+    "is_standard": 0,
+    "public": 1,
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:01:38,996 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "title": "My Custom Workspace",
+    "name": "my_custom_workspace",  # Slugified name
+    "is_standard": 1,
+    "public": 0,
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:01:38,996 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "title": "My_Custom_Workspace",  # Underscores instead of spaces
+    "is_standard": 0,
+    "public": 1,
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:01:38,996 INFO ipython frappe.get_meta("Workspace").autoname
+2025-05-01 16:01:38,996 INFO ipython frappe.get_meta("Workspace").autoname
+2025-05-01 16:01:38,996 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "label": "My Custom Workspace",
+    "name": "my-custom-workspace",  # slugified name, lowercase with hyphens or underscores
+    "is_standard": 0,
+    "public": 1,
+    "content": []  # Workspace expects content to be defined
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:01:38,997 INFO ipython === session end ===
+2025-05-01 16:02:33,343 INFO ipython === bench console session ===
+2025-05-01 16:02:33,344 INFO ipython import frappe
+2025-05-01 16:02:33,344 INFO ipython doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "label": "My Custom Workspace",
+    "title": "My Custom Workspace",  # 🔧 REQUIRED field
+    "name": "my-custom-workspace",  # slugified, optional if label is valid
+    "is_standard": 0,
+    "public": 1,
+    "content": []
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:02:33,344 INFO ipython === session end ===
+2025-05-01 16:06:31,483 INFO ipython === bench console session ===
+2025-05-01 16:06:31,484 INFO ipython import frappe
+2025-05-01 16:06:31,485 INFO ipython import json
+
+doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "label": "My Custom Workspace",
+    "title": "My Custom Workspace",
+    "name": "my-custom-workspace",
+    "is_standard": 0,
+    "public": 1,
+    "content": json.dumps([])  # ✅ Must be a stringified JSON array
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:06:31,485 INFO ipython import json
+
+doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "label": "My Custom Standard Workspace",
+    "title": "My Custom Standard Workspace",
+    "name": "my-custom-Standard-workspace",
+    "is_standard": 1,
+    "public": 0,
+    "content": json.dumps([])  # ✅ Must be a stringified JSON array
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:06:31,485 INFO ipython import json
+
+doc = frappe.get_doc({
+    "doctype": "Workspace",
+    "module": "Programming module",
+    "label": "My Custom Standard Workspace",
+    "title": "My Custom Standard Workspace",
+    "name": "my-custom-Standard-workspace",
+    "is_standard": 1,
+    "public": 0,
+    "content": json.dumps([])  # ✅ Must be a stringified JSON array
+})
+doc.insert()
+frappe.db.commit()
+2025-05-01 16:06:31,486 INFO ipython === session end ===

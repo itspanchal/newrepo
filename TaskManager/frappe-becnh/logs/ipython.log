@@ -1,0 +1,6 @@
+2025-05-10 12:22:03,037 INFO ipython === bench console session ===
+2025-05-10 12:22:03,038 INFO ipython import frappe
+2025-05-10 12:22:03,038 INFO ipython doc = frappe.get_doc({})
+2025-05-10 12:22:03,038 INFO ipython import frappe
+2025-05-10 12:22:03,038 INFO ipython doc = frappe.get_doc({"doctype":"Doctype","name":"test doctype","module":"TaskManager Module"})
+2025-05-10 12:22:03,038 INFO ipython === session end ===

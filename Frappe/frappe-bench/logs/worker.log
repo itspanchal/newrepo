@@ -1,0 +1,1551 @@
+2025-04-29 15:13:36,659 Worker rq:worker:16a0a68b12fd4e059c1b63a320b76264 started with PID 48132, version 2.3.2
+2025-04-29 15:13:36,659 Subscribing to channel rq:pubsub:16a0a68b12fd4e059c1b63a320b76264
+2025-04-29 15:13:36,659 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 15:13:36,660 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 15:13:36,661 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 15:13:36,661 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 15:27:06,737 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 15:27:06,741 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 15:27:06,743 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 15:32:15,421 Worker 16a0a68b12fd4e059c1b63a320b76264 [PID 48132]: warm shut down requested
+2025-04-29 15:32:15,431 Unsubscribing from channel rq:pubsub:16a0a68b12fd4e059c1b63a320b76264
+2025-04-29 15:40:35,010 Worker rq:worker:ad771150016247e39f6a72d6a339ea2a started with PID 79028, version 2.3.2
+2025-04-29 15:40:35,010 Subscribing to channel rq:pubsub:ad771150016247e39f6a72d6a339ea2a
+2025-04-29 15:40:35,011 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 15:40:35,012 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 15:40:35,013 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 15:40:35,014 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 15:51:33,191 Worker ad771150016247e39f6a72d6a339ea2a [PID 79028]: warm shut down requested
+2025-04-29 15:51:33,201 Unsubscribing from channel rq:pubsub:ad771150016247e39f6a72d6a339ea2a
+2025-04-29 15:51:35,886 Worker rq:worker:9687573e1986439dbb4fc003650afd56 started with PID 79500, version 2.3.2
+2025-04-29 15:51:35,886 Subscribing to channel rq:pubsub:9687573e1986439dbb4fc003650afd56
+2025-04-29 15:51:35,886 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 15:51:35,887 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 15:51:35,887 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 15:51:35,888 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 16:01:53,612 Worker 9687573e1986439dbb4fc003650afd56 [PID 79500]: warm shut down requested
+2025-04-29 16:01:53,622 Unsubscribing from channel rq:pubsub:9687573e1986439dbb4fc003650afd56
+2025-04-29 16:01:57,820 Worker rq:worker:425875f4de60416fab2fb806a887897a started with PID 79795, version 2.3.2
+2025-04-29 16:01:57,820 Subscribing to channel rq:pubsub:425875f4de60416fab2fb806a887897a
+2025-04-29 16:01:57,821 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 16:01:57,821 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 16:01:57,822 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 16:01:57,822 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 16:15:27,920 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 16:15:27,924 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 16:15:27,926 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 16:27:12,248 Worker 425875f4de60416fab2fb806a887897a [PID 79795]: warm shut down requested
+2025-04-29 16:27:12,260 Unsubscribing from channel rq:pubsub:425875f4de60416fab2fb806a887897a
+2025-04-29 16:27:35,478 Worker rq:worker:456f953567eb4fa58cc6b45c235a4468 started with PID 80505, version 2.3.2
+2025-04-29 16:27:35,478 Subscribing to channel rq:pubsub:456f953567eb4fa58cc6b45c235a4468
+2025-04-29 16:27:35,479 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 16:27:35,479 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 16:27:35,480 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 16:27:35,481 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 16:40:41,203 Worker 456f953567eb4fa58cc6b45c235a4468 [PID 80505]: warm shut down requested
+2025-04-29 16:40:41,212 Unsubscribing from channel rq:pubsub:456f953567eb4fa58cc6b45c235a4468
+2025-04-29 16:45:42,193 Worker rq:worker:f752843794c24bb3a1fd109626914581 started with PID 81146, version 2.3.2
+2025-04-29 16:45:42,193 Subscribing to channel rq:pubsub:f752843794c24bb3a1fd109626914581
+2025-04-29 16:45:42,193 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 16:45:42,194 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 16:45:42,194 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 16:45:42,195 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 16:59:12,301 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 16:59:12,304 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 16:59:12,306 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 17:12:42,501 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 17:12:42,505 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 17:12:42,507 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 17:26:12,629 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 17:26:12,632 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 17:26:12,634 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 17:35:54,628 Worker f752843794c24bb3a1fd109626914581 [PID 81146]: warm shut down requested
+2025-04-29 17:35:54,636 Unsubscribing from channel rq:pubsub:f752843794c24bb3a1fd109626914581
+2025-04-29 17:35:58,281 Worker rq:worker:437ddb20de5d447d9cdffae0797fe41f started with PID 82385, version 2.3.2
+2025-04-29 17:35:58,282 Subscribing to channel rq:pubsub:437ddb20de5d447d9cdffae0797fe41f
+2025-04-29 17:35:58,282 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 17:35:58,282 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 17:35:58,283 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 17:35:58,284 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 17:48:07,354 Worker 437ddb20de5d447d9cdffae0797fe41f [PID 82385]: warm shut down requested
+2025-04-29 17:48:07,369 Unsubscribing from channel rq:pubsub:437ddb20de5d447d9cdffae0797fe41f
+2025-04-29 17:48:14,357 Worker rq:worker:75d1f32fa5914a77a3073b0e9e5c9a5c started with PID 82756, version 2.3.2
+2025-04-29 17:48:14,357 Subscribing to channel rq:pubsub:75d1f32fa5914a77a3073b0e9e5c9a5c
+2025-04-29 17:48:14,358 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 17:48:14,359 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 17:48:14,360 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 17:48:14,361 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 18:01:44,471 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 18:01:44,475 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 18:01:44,476 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 18:13:58,582 Users-upforcetech-Desktop-Frappe-frappe-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x110665da0>, site='site1.local', user='Administrator') (site1.local||1196b3a6-3d46-4ca3-a1da-e1a15080cbeb)
+Retrieving Routes                   : [=                                       ] 3%Retrieving Routes                   : [==                                      ] 6%Retrieving Routes                   : [===                                     ] 9%Retrieving Routes                   : [=====                                   ] 12%Retrieving Routes                   : [======                                  ] 15%Retrieving Routes                   : [=======                                 ] 18%Retrieving Routes                   : [========                                ] 21%Retrieving Routes                   : [==========                              ] 25%Retrieving Routes                   : [===========                             ] 28%Retrieving Routes                   : [============                            ] 31%Retrieving Routes                   : [=============                           ] 34%Retrieving Routes                   : [===============                         ] 37%Retrieving Routes                   : [================                        ] 40%Retrieving Routes                   : [=================                       ] 43%Retrieving Routes                   : [==================                      ] 46%Retrieving Routes                   : [====================                    ] 50%Retrieving Routes                   : [=====================                   ] 53%Retrieving Routes                   : [======================                  ] 56%Retrieving Routes                   : [=======================                 ] 59%Retrieving Routes                   : [=========================               ] 62%Retrieving Routes                   : [==========================              ] 65%Retrieving Routes                   : [===========================             ] 68%Retrieving Routes                   : [============================            ] 71%Retrieving Routes                   : [==============================          ] 75%Retrieving Routes                   : [===============================         ] 78%Retrieving Routes                   : [================================        ] 81%Retrieving Routes                   : [=================================       ] 84%Retrieving Routes                   : [===================================     ] 87%Retrieving Routes                   : [====================================    ] 90%Retrieving Routes                   : [=====================================   ] 93%Retrieving Routes                   : [======================================  ] 96%Retrieving Routes                   : [========================================] 100%
+Building Index                      : [=                                       ] 3%Building Index                      : [==                                      ] 6%Building Index                      : [===                                     ] 9%Building Index                      : [=====                                   ] 12%Building Index                      : [======                                  ] 15%Building Index                      : [=======                                 ] 18%Building Index                      : [========                                ] 21%Building Index                      : [==========                              ] 25%Building Index                      : [===========                             ] 28%Building Index                      : [============                            ] 31%Building Index                      : [=============                           ] 34%Building Index                      : [===============                         ] 37%Building Index                      : [================                        ] 40%Building Index                      : [=================                       ] 43%Building Index                      : [==================                      ] 46%Building Index                      : [====================                    ] 50%Building Index                      : [=====================                   ] 53%Building Index                      : [======================                  ] 56%Building Index                      : [=======================                 ] 59%Building Index                      : [=========================               ] 62%Building Index                      : [==========================              ] 65%Building Index                      : [===========================             ] 68%Building Index                      : [============================            ] 71%Building Index                      : [==============================          ] 75%Building Index                      : [===============================         ] 78%Building Index                      : [================================        ] 81%Building Index                      : [=================================       ] 84%Building Index                      : [===================================     ] 87%Building Index                      : [====================================    ] 90%Building Index                      : [=====================================   ] 93%Building Index                      : [======================================  ] 96%Building Index                      : [========================================] 100%2025-04-29 18:14:00,065 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x110665da0>, site='site1.local', user='Administrator') job in 0:00:01.356874s on worker 75d1f32fa5914a77a3073b0e9e5c9a5c
+2025-04-29 18:14:00,065 Users-upforcetech-Desktop-Frappe-frappe-bench:long: Job OK (site1.local||1196b3a6-3d46-4ca3-a1da-e1a15080cbeb)
+2025-04-29 18:14:00,065 Result is kept for 600 seconds
+2025-04-29 18:14:00,069 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 18:14:00,070 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 18:14:00,071 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 18:17:28,045 Worker 75d1f32fa5914a77a3073b0e9e5c9a5c [PID 82756]: warm shut down requested
+2025-04-29 18:17:28,053 Unsubscribing from channel rq:pubsub:75d1f32fa5914a77a3073b0e9e5c9a5c
+2025-04-29 18:17:31,878 Worker rq:worker:361d3753270e48a9a6510a82a42abfe5 started with PID 83877, version 2.3.2
+2025-04-29 18:17:31,878 Subscribing to channel rq:pubsub:361d3753270e48a9a6510a82a42abfe5
+2025-04-29 18:17:31,878 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 18:17:31,879 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 18:17:31,879 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 18:17:31,880 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 18:31:02,014 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 18:31:02,019 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 18:31:02,021 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 18:44:32,050 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 18:44:32,055 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 18:44:32,057 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 18:48:24,665 Worker 361d3753270e48a9a6510a82a42abfe5 [PID 83877]: warm shut down requested
+2025-04-29 18:48:24,672 Unsubscribing from channel rq:pubsub:361d3753270e48a9a6510a82a42abfe5
+2025-04-29 18:48:37,546 Worker rq:worker:07444f26460d4cc7be9823ecba2e111b started with PID 84941, version 2.3.2
+2025-04-29 18:48:37,546 Subscribing to channel rq:pubsub:07444f26460d4cc7be9823ecba2e111b
+2025-04-29 18:48:37,546 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 18:48:37,547 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 18:48:37,548 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 18:48:37,549 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 19:02:07,689 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 19:02:07,694 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 19:02:07,696 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 19:04:47,411 Worker 07444f26460d4cc7be9823ecba2e111b [PID 84941]: warm shut down requested
+Traceback (most recent call last):
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 48, in invoke
+    return super().invoke(ctx)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/click/core.py", line 1697, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 350, in start_worker
+    worker.work(
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/rq/worker.py", line 649, in work
+    self.teardown()
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/rq/worker.py", line 1150, in teardown
+    self.register_death()
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/rq/worker.py", line 897, in register_death
+    p.execute()
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/client.py", line 1524, in execute
+    conn = self.connection_pool.get_connection("MULTI", self.shard_hint)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Users/upforcetech/Desktop/Frappe/frappe-bench/env/lib/python3.11/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to 127.0.0.1:11010. Connection refused.
+
+Error 61 connecting to 127.0.0.1:11010. Connection refused.
+2025-04-29 19:04:49,900 Worker rq:worker:ebdac4c1420d448e98b7d2863f04f2e2 started with PID 85566, version 2.3.2
+2025-04-29 19:04:49,900 Subscribing to channel rq:pubsub:ebdac4c1420d448e98b7d2863f04f2e2
+2025-04-29 19:04:49,901 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 19:04:49,901 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 19:04:49,902 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 19:04:49,902 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 19:18:20,091 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 19:18:20,097 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 19:18:20,099 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 19:34:22,279 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 19:34:22,280 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 19:34:22,281 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 19:56:16,214 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 19:56:16,321 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 19:56:16,323 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 20:11:21,168 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 20:11:21,169 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 20:11:21,170 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 20:28:20,134 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 20:28:20,135 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 20:28:20,136 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 20:44:44,051 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 20:44:44,052 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 20:44:44,053 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 21:01:42,005 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 21:01:42,006 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 21:01:42,006 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 21:15:44,949 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 21:15:44,950 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 21:15:44,951 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 21:31:07,917 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 21:31:07,919 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 21:31:07,921 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 21:48:27,871 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 21:48:27,872 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 21:48:27,873 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 22:06:26,814 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 22:06:26,815 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 22:06:26,816 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 22:16:45,789 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 22:16:45,790 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 22:16:45,791 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 22:31:55,662 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 22:31:55,664 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 22:31:55,665 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 22:34:01,043 Worker ebdac4c1420d448e98b7d2863f04f2e2 [PID 85566]: warm shut down requested
+2025-04-29 22:34:01,047 Unsubscribing from channel rq:pubsub:ebdac4c1420d448e98b7d2863f04f2e2
+2025-04-29 22:46:41,268 Worker rq:worker:2616cb9cf47d48b39b356c8b18eb5397 started with PID 86645, version 2.3.2
+2025-04-29 22:46:41,268 Subscribing to channel rq:pubsub:2616cb9cf47d48b39b356c8b18eb5397
+2025-04-29 22:46:41,269 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 22:46:41,269 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 22:46:41,270 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 22:46:41,270 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 22:53:56,663 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User systemadmin@admin.com>, 'ignore_mandatory': Tr..., method='frappe.core.doctype.user.user.create_contact', site='site1.local', user='Administrator') (site1.local||6b2de8ff-77a6-49a5-8e4c-6a4246a2b9d1)
+2025-04-29 22:53:57,136 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User systemadmin@admin.com>, 'ignore_mandatory': Tr..., method='frappe.core.doctype.user.user.create_contact', site='site1.local', user='Administrator') job in 0:00:00.338378s on worker 2616cb9cf47d48b39b356c8b18eb5397
+2025-04-29 22:53:57,136 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local||6b2de8ff-77a6-49a5-8e4c-6a4246a2b9d1)
+2025-04-29 22:53:57,136 Result is kept for 600 seconds
+2025-04-29 22:53:57,141 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'systemadmin@admin.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='site1.local', user='Administrator') (site1.local||d1f3d82a-5eb9-44cf-9ee3-7a0c26a8969d)
+2025-04-29 22:53:57,317 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'systemadmin@admin.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='site1.local', user='Administrator') job in 0:00:00.170544s on worker 2616cb9cf47d48b39b356c8b18eb5397
+2025-04-29 22:53:57,317 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local||d1f3d82a-5eb9-44cf-9ee3-7a0c26a8969d)
+2025-04-29 22:53:57,317 Result is kept for 600 seconds
+2025-04-29 23:00:42,345 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 23:00:42,349 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 23:00:42,351 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 23:06:46,460 Worker 2616cb9cf47d48b39b356c8b18eb5397 [PID 86645]: warm shut down requested
+2025-04-29 23:06:46,465 Unsubscribing from channel rq:pubsub:2616cb9cf47d48b39b356c8b18eb5397
+2025-04-29 23:07:03,579 Worker rq:worker:515cf19f8f2a4d3191a53578b82300fa started with PID 87179, version 2.3.2
+2025-04-29 23:07:03,579 Subscribing to channel rq:pubsub:515cf19f8f2a4d3191a53578b82300fa
+2025-04-29 23:07:03,580 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-29 23:07:03,580 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 23:07:03,581 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 23:07:03,582 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 23:25:29,024 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 23:25:29,117 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 23:25:29,118 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-29 23:40:43,581 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-29 23:40:43,582 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-29 23:40:43,583 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 00:04:20,508 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 00:04:20,509 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 00:04:20,510 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 00:21:13,480 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 00:21:13,588 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 00:21:13,601 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 00:38:51,464 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 00:38:51,465 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 00:38:51,466 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 00:54:02,404 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 00:54:02,405 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 00:54:02,406 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 01:10:20,338 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 01:10:20,340 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 01:10:20,341 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 01:27:56,282 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 01:27:56,283 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 01:27:56,284 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 01:43:51,273 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 01:43:51,274 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 01:43:51,275 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 02:01:32,226 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 02:01:32,227 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 02:01:32,228 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 02:27:39,136 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 02:27:39,137 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 02:27:39,138 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 02:44:45,123 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 02:44:45,125 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 02:44:45,127 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 03:02:21,047 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 03:02:21,048 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 03:02:21,049 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 03:27:31,013 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 03:27:31,014 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 03:27:31,015 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 03:45:08,008 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 03:45:08,009 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 03:45:08,010 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 04:00:51,991 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 04:00:51,992 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 04:00:51,993 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 04:13:20,942 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 04:13:20,943 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 04:13:20,944 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 04:28:58,916 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 04:28:59,019 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 04:28:59,021 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 04:44:45,863 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 04:44:45,864 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 04:44:45,865 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 05:02:19,818 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 05:02:19,819 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 05:02:19,821 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 05:14:21,778 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 05:14:21,779 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 05:14:21,780 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 05:25:00,666 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 05:25:00,667 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 05:25:00,668 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 05:40:59,689 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 05:40:59,690 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 05:40:59,691 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 06:00:47,649 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 06:00:47,650 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 06:00:47,651 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 06:15:22,625 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 06:15:22,626 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 06:15:22,627 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 06:30:57,621 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 06:30:57,719 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 06:30:57,721 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 06:48:10,476 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 06:48:10,478 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 06:48:10,480 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 07:03:54,493 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 07:03:54,494 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 07:03:54,495 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 07:16:22,322 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 07:16:22,323 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 07:16:22,324 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 07:31:31,481 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 07:31:31,482 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 07:31:31,483 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 07:48:22,498 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 07:48:22,499 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 07:48:22,499 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 08:06:08,264 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 08:06:08,265 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 08:06:08,266 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 08:17:22,326 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 08:17:22,420 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 08:17:22,431 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 08:33:27,299 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 08:33:27,300 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 08:33:27,301 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 08:48:57,412 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 08:48:57,414 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 08:48:57,415 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 09:00:48,256 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 09:00:48,258 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 09:00:48,259 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 09:18:00,151 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 09:18:00,152 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 09:18:00,153 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 09:35:26,121 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 09:35:26,122 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 09:35:26,123 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 09:51:01,098 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 09:51:01,099 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 09:51:01,100 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 10:05:37,689 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 10:05:37,690 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 10:05:37,691 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 10:19:00,034 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 10:19:00,137 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 10:19:00,151 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 10:32:30,270 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 10:32:30,274 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 10:32:30,276 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 10:46:00,353 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 10:46:00,356 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 10:46:00,358 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 10:53:54,561 Worker 515cf19f8f2a4d3191a53578b82300fa [PID 87179]: warm shut down requested
+2025-04-30 10:53:54,565 Unsubscribing from channel rq:pubsub:515cf19f8f2a4d3191a53578b82300fa
+2025-04-30 11:16:12,759 Worker rq:worker:589ecbf6a07a4befa84d3d9c6d0873d1 started with PID 89420, version 2.3.2
+2025-04-30 11:16:12,759 Subscribing to channel rq:pubsub:589ecbf6a07a4befa84d3d9c6d0873d1
+2025-04-30 11:16:12,760 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-30 11:16:12,760 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 11:16:12,761 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 11:16:12,762 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 11:20:37,921 Worker 589ecbf6a07a4befa84d3d9c6d0873d1 [PID 89420]: warm shut down requested
+2025-04-30 11:20:37,938 Unsubscribing from channel rq:pubsub:589ecbf6a07a4befa84d3d9c6d0873d1
+2025-04-30 12:12:55,155 Worker rq:worker:ae543db7572c461785e553fe47315548 started with PID 92725, version 1.15.1
+2025-04-30 12:12:55,155 Subscribing to channel rq:pubsub:ae543db7572c461785e553fe47315548
+2025-04-30 12:12:55,155 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-30 12:12:55,156 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 12:12:55,156 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 12:12:55,157 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 12:21:21,167 Worker ae543db7572c461785e553fe47315548 [PID 92725]: warm shut down requested
+2025-04-30 12:21:21,177 Unsubscribing from channel rq:pubsub:ae543db7572c461785e553fe47315548
+2025-04-30 12:24:15,056 Worker rq:worker:a8034d6e0cf248a79316ea206469ddf0 started with PID 93127, version 1.15.1
+2025-04-30 12:24:15,057 Subscribing to channel rq:pubsub:a8034d6e0cf248a79316ea206469ddf0
+2025-04-30 12:24:15,057 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-30 12:37:45,126 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 12:37:45,132 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 12:37:45,133 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 13:04:45,245 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 13:04:45,252 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 13:04:45,253 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 13:07:16,520 Worker a8034d6e0cf248a79316ea206469ddf0 [PID 93127]: warm shut down requested
+2025-04-30 13:07:16,526 Unsubscribing from channel rq:pubsub:a8034d6e0cf248a79316ea206469ddf0
+2025-04-30 13:10:17,594 Worker rq:worker:509870f1465647b9b0795b86b08625af started with PID 94234, version 1.15.1
+2025-04-30 13:10:17,595 Subscribing to channel rq:pubsub:509870f1465647b9b0795b86b08625af
+2025-04-30 13:10:17,595 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-30 13:23:47,708 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 13:23:47,715 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 13:23:47,716 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 13:50:48,014 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 13:50:48,017 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 13:50:48,019 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 14:17:48,246 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 14:17:48,251 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 14:17:48,253 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 14:44:48,455 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 14:44:48,460 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 14:44:48,462 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 15:11:48,666 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 15:11:48,671 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 15:11:48,672 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 15:38:48,868 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 15:38:48,874 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 15:38:48,875 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 16:05:49,126 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 16:05:49,132 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 16:05:49,133 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 16:32:49,370 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 16:32:49,375 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 16:32:49,376 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 16:51:02,551 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Property'}, method='frappe.utils.global_search.rebuild_for_doctype', site='site1.local', user='Administrator') (site1.local::9a60f5f4-f9ef-44b3-9dd6-2f815c259882)
+2025-04-30 16:51:02,637 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::9a60f5f4-f9ef-44b3-9dd6-2f815c259882)
+2025-04-30 16:51:02,637 Result is kept for 600 seconds
+2025-04-30 16:57:47,739 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 16:57:47,743 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 16:57:47,746 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 17:24:47,999 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 17:24:48,005 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 17:24:48,007 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 17:51:48,201 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 17:51:48,204 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 17:51:48,205 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 18:18:48,303 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 18:18:48,307 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 18:18:48,309 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 18:45:48,562 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 18:45:48,567 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 18:45:48,568 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 19:01:01,702 Worker 509870f1465647b9b0795b86b08625af [PID 94234]: warm shut down requested
+2025-04-30 19:01:01,711 Unsubscribing from channel rq:pubsub:509870f1465647b9b0795b86b08625af
+2025-04-30 19:01:07,728 Worker rq:worker:1b6c784306ef4f0c8d3332b696997a59 started with PID 3175, version 1.15.1
+2025-04-30 19:01:07,728 Subscribing to channel rq:pubsub:1b6c784306ef4f0c8d3332b696997a59
+2025-04-30 19:01:07,729 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-04-30 19:01:07,729 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 19:01:07,729 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 19:01:07,730 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 19:26:00,654 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 19:26:00,759 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 19:26:00,762 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 19:53:06,588 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 19:53:06,589 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 19:53:06,590 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 20:09:55,541 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 20:09:55,541 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 20:09:55,542 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 20:37:08,073 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 20:37:08,078 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 20:37:08,079 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 21:03:31,641 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 21:03:31,727 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 21:03:31,728 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 21:21:06,357 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 21:21:06,358 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 21:21:06,359 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 21:36:34,329 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 21:36:34,416 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 21:36:34,416 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 21:53:14,275 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 21:53:14,277 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 21:53:14,278 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 22:09:44,233 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 22:09:44,234 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 22:09:44,235 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 22:26:25,185 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 22:26:25,285 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 22:26:25,286 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 22:43:24,139 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 22:43:24,140 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 22:43:24,141 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 23:06:56,080 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 23:06:56,081 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 23:06:56,083 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 23:23:21,043 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 23:23:21,045 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 23:23:21,046 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-04-30 23:38:32,991 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-04-30 23:38:32,992 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-04-30 23:38:32,993 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 00:07:28,923 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 00:07:28,924 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 00:07:28,925 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 00:22:53,898 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 00:22:53,899 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 00:22:53,900 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 00:40:39,838 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 00:40:39,839 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 00:40:39,840 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 01:09:29,751 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 01:09:29,752 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 01:09:29,753 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 01:24:56,714 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 01:24:56,715 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 01:24:56,716 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 01:42:47,663 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 01:42:47,665 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 01:42:47,665 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 02:00:35,619 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 02:00:35,620 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 02:00:35,621 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 02:16:03,579 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 02:16:03,580 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 02:16:03,581 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 02:32:38,549 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 02:32:38,550 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 02:32:38,551 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 02:48:26,517 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 02:48:26,519 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 02:48:26,520 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 03:06:08,443 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 03:06:08,444 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 03:06:08,445 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 03:22:33,404 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 03:22:33,405 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 03:22:33,406 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 03:40:05,364 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 03:40:05,365 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 03:40:05,365 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 03:56:00,312 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 03:56:00,312 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 03:56:00,313 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 04:13:37,268 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 04:13:37,269 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 04:13:37,269 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 04:29:11,224 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 04:29:11,225 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 04:29:11,226 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 04:56:39,154 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 04:56:39,268 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 04:56:39,274 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 05:11:49,112 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 05:11:49,218 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 05:11:49,221 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 05:41:19,033 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 05:41:19,034 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 05:41:19,035 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 05:56:29,993 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 05:56:29,994 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 05:56:29,995 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 06:23:33,926 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 06:23:34,029 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 06:23:34,030 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 06:39:47,883 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 06:39:47,884 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 06:39:47,885 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 06:58:06,832 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 06:58:06,937 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 06:58:06,938 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 07:15:33,787 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 07:15:33,788 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 07:15:33,789 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 07:36:01,731 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 07:36:01,840 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 07:36:01,841 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 07:58:59,674 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 07:58:59,675 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 07:58:59,676 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 08:14:39,634 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 08:14:39,738 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 08:14:39,739 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 08:30:09,606 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 08:30:09,607 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 08:30:09,608 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 08:59:54,518 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 08:59:54,619 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 08:59:54,620 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 09:16:40,470 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 09:16:40,471 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 09:16:40,471 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 09:32:10,426 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 09:32:10,534 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 09:32:10,544 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 10:01:06,353 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 10:01:06,467 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 10:01:06,472 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 10:16:39,309 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 10:16:39,416 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 10:16:39,417 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 10:43:39,677 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 10:43:39,682 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 10:43:39,684 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 11:10:39,929 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 11:10:39,935 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 11:10:39,937 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 11:33:18,833 Worker 1b6c784306ef4f0c8d3332b696997a59 [PID 3175]: warm shut down requested
+2025-05-01 11:51:58,647 Worker rq:worker:a8f08b1383be41bab4a733ecf1dd3fc8 started with PID 6355, version 1.15.1
+2025-05-01 11:51:58,648 Subscribing to channel rq:pubsub:a8f08b1383be41bab4a733ecf1dd3fc8
+2025-05-01 11:51:58,648 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 11:51:58,649 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 11:51:58,650 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 11:51:58,651 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 12:18:58,860 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 12:18:58,864 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 12:18:58,865 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 12:19:33,401 Worker a8f08b1383be41bab4a733ecf1dd3fc8 [PID 6355]: warm shut down requested
+2025-05-01 12:19:58,390 Worker rq:worker:d3f9e0f63e7a4c13b24e3f999278414b started with PID 7249, version 1.15.1
+2025-05-01 12:19:58,390 Subscribing to channel rq:pubsub:d3f9e0f63e7a4c13b24e3f999278414b
+2025-05-01 12:19:58,391 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 12:46:58,612 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 12:46:58,618 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 12:46:58,621 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 13:13:58,896 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 13:13:58,900 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 13:13:58,902 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 13:40:59,154 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 13:40:59,160 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 13:40:59,161 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 14:07:59,267 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 14:07:59,272 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 14:07:59,275 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 14:34:59,490 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 14:34:59,495 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 14:34:59,496 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 15:01:59,699 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 15:01:59,704 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 15:01:59,706 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 15:10:59,908 Worker d3f9e0f63e7a4c13b24e3f999278414b [PID 7249]: warm shut down requested
+2025-05-01 15:10:59,923 Unsubscribing from channel rq:pubsub:d3f9e0f63e7a4c13b24e3f999278414b
+2025-05-01 16:03:52,051 Worker rq:worker:b0b4af024a324969a788fb0234fe62f6 started with PID 12155, version 1.15.1
+2025-05-01 16:03:52,051 Subscribing to channel rq:pubsub:b0b4af024a324969a788fb0234fe62f6
+2025-05-01 16:03:52,051 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 16:03:52,051 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 16:03:52,052 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 16:03:52,052 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 16:05:56,526 Worker b0b4af024a324969a788fb0234fe62f6 [PID 12155]: warm shut down requested
+2025-05-01 16:05:56,535 Unsubscribing from channel rq:pubsub:b0b4af024a324969a788fb0234fe62f6
+2025-05-01 16:06:37,417 Worker rq:worker:02fba623446a46ee94d91702471dcae9 started with PID 12363, version 1.15.1
+2025-05-01 16:06:37,417 Subscribing to channel rq:pubsub:02fba623446a46ee94d91702471dcae9
+2025-05-01 16:06:37,417 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 16:09:53,699 Worker 02fba623446a46ee94d91702471dcae9 [PID 12363]: warm shut down requested
+2025-05-01 16:09:53,709 Unsubscribing from channel rq:pubsub:02fba623446a46ee94d91702471dcae9
+2025-05-01 16:13:30,912 Worker rq:worker:49f0bceb62854e24811cfd63198fa58c started with PID 12692, version 1.15.1
+2025-05-01 16:13:30,912 Subscribing to channel rq:pubsub:49f0bceb62854e24811cfd63198fa58c
+2025-05-01 16:13:30,913 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 16:16:28,499 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Workspace'}, method='frappe.utils.global_search.rebuild_for_doctype', site='site1.local', user='Administrator') (site1.local::25c8180b-7c3c-42f0-a41a-bde1e4f60ad4)
+2025-05-01 16:16:28,703 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::25c8180b-7c3c-42f0-a41a-bde1e4f60ad4)
+2025-05-01 16:16:28,703 Result is kept for 600 seconds
+2025-05-01 16:17:01,816 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Workspace'}, method='frappe.utils.global_search.rebuild_for_doctype', site='site1.local', user='Administrator') (site1.local::239b1365-7439-4d10-a6a5-f54c133efb5b)
+2025-05-01 16:17:01,954 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::239b1365-7439-4d10-a6a5-f54c133efb5b)
+2025-05-01 16:17:01,955 Result is kept for 600 seconds
+2025-05-01 16:23:46,980 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 16:23:46,986 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 16:23:46,987 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 16:31:06,901 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Workspace'}, method='frappe.utils.global_search.rebuild_for_doctype', site='site1.local', user='Administrator') (site1.local::626030ef-2f0d-4136-abc3-9e4ed3ef0681)
+2025-05-01 16:31:07,059 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::626030ef-2f0d-4136-abc3-9e4ed3ef0681)
+2025-05-01 16:31:07,059 Result is kept for 600 seconds
+2025-05-01 16:36:13,321 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Workspace', 'name': 'MY workspace-Administrator'}, method='frappe.model.delete_doc.delete_dynamic_links', site='site1.local', user='Administrator') (site1.local::3e585d7a-c2b6-497a-842d-03919538f806)
+2025-05-01 16:36:13,382 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::3e585d7a-c2b6-497a-842d-03919538f806)
+2025-05-01 16:36:13,383 Result is kept for 600 seconds
+2025-05-01 16:48:09,551 Worker 49f0bceb62854e24811cfd63198fa58c [PID 12692]: warm shut down requested
+2025-05-01 16:50:23,979 Worker rq:worker:f9fcce0f896e485dbd5d95aea7f5ad34 started with PID 13711, version 1.15.1
+2025-05-01 16:50:23,979 Subscribing to channel rq:pubsub:f9fcce0f896e485dbd5d95aea7f5ad34
+2025-05-01 16:50:23,979 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 16:50:23,979 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 16:50:23,980 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 16:50:23,980 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 16:53:32,527 Worker f9fcce0f896e485dbd5d95aea7f5ad34 [PID 13711]: warm shut down requested
+2025-05-01 16:53:32,534 Unsubscribing from channel rq:pubsub:f9fcce0f896e485dbd5d95aea7f5ad34
+2025-05-01 16:54:08,919 Worker rq:worker:24d6163870aa45ef98308b8040c2d27f started with PID 21990, version 1.15.1
+2025-05-01 16:54:08,919 Subscribing to channel rq:pubsub:24d6163870aa45ef98308b8040c2d27f
+2025-05-01 16:54:08,920 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 17:07:39,003 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 17:07:39,009 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 17:07:39,011 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 17:34:39,162 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 17:34:39,166 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 17:34:39,167 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 18:01:39,437 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 18:01:39,443 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 18:01:39,444 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 18:28:39,660 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 18:28:39,668 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 18:28:39,670 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 18:55:39,886 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 18:55:39,891 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 18:55:39,893 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 19:12:23,182 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 19:12:23,257 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 19:12:23,258 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 19:29:56,931 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 19:29:57,024 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 19:29:57,025 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 19:50:38,889 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 19:50:38,974 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 19:50:38,975 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 20:05:43,183 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 20:05:43,183 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 20:05:43,184 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 20:23:49,800 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 20:23:49,895 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 20:23:49,896 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 20:41:36,741 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 20:41:36,844 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 20:41:36,846 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 20:56:45,683 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 20:56:45,772 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 20:56:45,773 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 21:23:36,570 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 21:23:36,677 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 21:23:36,678 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 21:40:54,525 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 21:40:54,526 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 21:40:54,527 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 21:56:05,496 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 21:56:05,598 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 21:56:05,599 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 22:22:22,561 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 22:22:22,567 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 22:22:22,569 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 22:27:17,528 Worker 24d6163870aa45ef98308b8040c2d27f [PID 21990]: warm shut down requested
+2025-05-01 22:27:17,544 Unsubscribing from channel rq:pubsub:24d6163870aa45ef98308b8040c2d27f
+2025-05-01 22:27:24,071 Worker rq:worker:95694219c60042899ff1db6d20819f15 started with PID 33249, version 1.15.1
+2025-05-01 22:27:24,071 Subscribing to channel rq:pubsub:95694219c60042899ff1db6d20819f15
+2025-05-01 22:27:24,071 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 22:40:54,209 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 22:40:54,213 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 22:40:54,214 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 22:55:36,381 Worker 95694219c60042899ff1db6d20819f15 [PID 33249]: warm shut down requested
+2025-05-01 22:55:36,395 Unsubscribing from channel rq:pubsub:95694219c60042899ff1db6d20819f15
+2025-05-01 22:55:42,835 Worker rq:worker:4fdaa44c34284dda8a60295729fbc572 started with PID 34214, version 1.15.1
+2025-05-01 22:55:42,835 Subscribing to channel rq:pubsub:4fdaa44c34284dda8a60295729fbc572
+2025-05-01 22:55:42,835 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 23:07:45,902 Worker 4fdaa44c34284dda8a60295729fbc572 [PID 34214]: warm shut down requested
+2025-05-01 23:07:45,915 Unsubscribing from channel rq:pubsub:4fdaa44c34284dda8a60295729fbc572
+2025-05-01 23:07:58,195 Worker rq:worker:815b3a37dbc34479adbf45c59b35c5de started with PID 34657, version 1.15.1
+2025-05-01 23:07:58,195 Subscribing to channel rq:pubsub:815b3a37dbc34479adbf45c59b35c5de
+2025-05-01 23:07:58,196 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 23:07:58,196 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 23:07:58,196 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 23:07:58,197 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 23:14:44,803 Worker 815b3a37dbc34479adbf45c59b35c5de [PID 34657]: warm shut down requested
+2025-05-01 23:14:44,815 Unsubscribing from channel rq:pubsub:815b3a37dbc34479adbf45c59b35c5de
+2025-05-01 23:14:52,513 Worker rq:worker:b477415aaf514f1381ca686949f75e41 started with PID 35077, version 1.15.1
+2025-05-01 23:14:52,513 Subscribing to channel rq:pubsub:b477415aaf514f1381ca686949f75e41
+2025-05-01 23:14:52,514 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-01 23:28:22,647 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 23:28:22,654 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 23:28:22,655 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-01 23:59:25,611 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-01 23:59:25,705 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-01 23:59:25,707 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 00:16:06,210 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 00:16:06,211 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 00:16:06,211 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 00:31:30,148 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 00:31:30,149 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 00:31:30,149 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 00:48:36,095 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 00:48:36,096 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 00:48:36,097 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 01:06:25,044 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 01:06:25,045 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 01:06:25,045 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 01:22:05,991 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 01:22:05,992 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 01:22:05,993 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 01:39:13,953 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 01:39:13,954 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 01:39:13,955 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 02:00:29,870 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 02:00:29,871 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 02:00:29,872 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 02:15:42,845 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 02:15:42,846 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 02:15:42,847 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 02:33:29,840 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 02:33:29,840 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 02:33:29,841 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 03:02:07,779 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 03:02:07,780 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 03:02:07,781 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 03:17:39,761 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 03:17:39,762 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 03:17:39,762 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 03:33:19,724 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 03:33:19,725 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 03:33:19,726 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 04:03:14,677 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 04:03:14,679 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 04:03:14,679 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 04:21:09,644 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 04:21:09,645 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 04:21:09,646 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 04:37:22,620 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 04:37:22,725 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 04:37:22,729 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 05:05:52,446 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 05:05:52,447 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 05:05:52,448 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 05:23:44,312 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 05:23:44,313 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 05:23:44,315 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 05:38:54,467 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 05:38:54,468 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 05:38:54,468 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 06:06:14,467 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 06:06:14,470 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 06:06:14,472 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 06:23:16,367 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 06:23:16,368 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 06:23:16,369 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 06:40:40,349 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 06:40:40,350 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 06:40:40,351 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 07:06:04,291 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 07:06:04,292 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 07:06:04,293 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 07:23:33,206 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 07:23:33,206 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 07:23:33,207 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 07:39:05,164 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 07:39:05,165 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 07:39:05,166 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 08:06:35,088 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 08:06:35,089 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 08:06:35,089 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 08:23:56,040 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 08:23:56,041 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 08:23:56,041 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 08:40:55,009 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 08:40:55,010 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 08:40:55,011 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 09:07:36,922 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 09:07:36,923 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 09:07:36,924 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 09:22:56,902 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 09:22:56,903 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 09:22:56,904 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 09:39:13,849 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 09:39:13,850 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 09:39:13,851 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 10:06:49,034 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 10:06:49,136 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 10:06:49,137 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 10:33:27,607 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 10:33:27,611 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 10:33:27,612 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 10:44:38,012 Worker b477415aaf514f1381ca686949f75e41 [PID 35077]: warm shut down requested
+2025-05-02 10:44:38,024 Unsubscribing from channel rq:pubsub:b477415aaf514f1381ca686949f75e41
+2025-05-02 10:44:49,093 Worker rq:worker:6f6c731be8e14817a89735dd0df7f15d started with PID 36958, version 1.15.1
+2025-05-02 10:44:49,093 Subscribing to channel rq:pubsub:6f6c731be8e14817a89735dd0df7f15d
+2025-05-02 10:44:49,093 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 10:46:42,885 Worker 6f6c731be8e14817a89735dd0df7f15d [PID 36958]: warm shut down requested
+2025-05-02 10:46:46,160 Worker rq:worker:a30545ee960c4c679931b08b0a139834 started with PID 37155, version 1.15.1
+2025-05-02 10:46:46,161 Subscribing to channel rq:pubsub:a30545ee960c4c679931b08b0a139834
+2025-05-02 10:46:46,161 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 10:48:16,593 Worker a30545ee960c4c679931b08b0a139834 [PID 37155]: warm shut down requested
+2025-05-02 10:48:16,601 Unsubscribing from channel rq:pubsub:a30545ee960c4c679931b08b0a139834
+2025-05-02 10:48:19,189 Worker rq:worker:68cd5f15c5e34697b7eef0b43fe73ef3 started with PID 37352, version 1.15.1
+2025-05-02 10:48:19,189 Subscribing to channel rq:pubsub:68cd5f15c5e34697b7eef0b43fe73ef3
+2025-05-02 10:48:19,190 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 11:01:49,292 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 11:01:49,303 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 11:01:49,305 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 11:28:49,463 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 11:28:49,468 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 11:28:49,470 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 11:39:24,124 Worker 68cd5f15c5e34697b7eef0b43fe73ef3 [PID 37352]: warm shut down requested
+2025-05-02 11:39:29,294 Worker rq:worker:d9e4b6ed9c2449a49843cb4ecac6d0e1 started with PID 39093, version 1.15.1
+2025-05-02 11:39:29,295 Subscribing to channel rq:pubsub:d9e4b6ed9c2449a49843cb4ecac6d0e1
+2025-05-02 11:39:29,295 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 11:52:59,346 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 11:52:59,352 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 11:52:59,354 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 12:19:59,614 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 12:19:59,619 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 12:19:59,621 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 12:46:59,786 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 12:46:59,791 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 12:46:59,793 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 13:14:00,102 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 13:14:00,107 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 13:14:00,108 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 13:41:00,379 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 13:41:00,385 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 13:41:00,386 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 14:08:00,514 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 14:08:00,520 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 14:08:00,522 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 14:23:27,773 Worker d9e4b6ed9c2449a49843cb4ecac6d0e1 [PID 39093]: warm shut down requested
+2025-05-02 14:23:36,769 Worker rq:worker:902ca3025c00475f8d87e99771e6ed4f started with PID 44023, version 1.15.1
+2025-05-02 14:23:36,769 Subscribing to channel rq:pubsub:902ca3025c00475f8d87e99771e6ed4f
+2025-05-02 14:23:36,770 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 14:23:36,770 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 14:23:36,771 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 14:23:36,772 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 14:29:55,419 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Client Site Scripting doctype', 'name': 'PR-0007'}, method='frappe.model.delete_doc.delete_dynamic_links', site='site1.local', user='Administrator') (site1.local::4f7a7d0c-4419-4139-81d8-3894beacfce3)
+2025-05-02 14:29:55,483 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::4f7a7d0c-4419-4139-81d8-3894beacfce3)
+2025-05-02 14:29:55,483 Result is kept for 600 seconds
+2025-05-02 14:30:34,391 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Client Site Scripting doctype', 'name': 'PR-0006'}, method='frappe.model.delete_doc.delete_dynamic_links', site='site1.local', user='Administrator') (site1.local::8aa6b5b1-b0fd-450b-9a6f-1c4f316ab694)
+2025-05-02 14:30:34,458 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::8aa6b5b1-b0fd-450b-9a6f-1c4f316ab694)
+2025-05-02 14:30:34,458 Result is kept for 600 seconds
+2025-05-02 14:50:49,623 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 14:50:49,629 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 14:50:49,631 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 15:17:49,864 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 15:17:49,870 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 15:17:49,870 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 15:28:00,127 Worker 902ca3025c00475f8d87e99771e6ed4f [PID 44023]: warm shut down requested
+2025-05-02 15:28:03,058 Worker rq:worker:84724eb785f041e08135ced8f136bac3 started with PID 46669, version 1.15.1
+2025-05-02 15:28:03,058 Subscribing to channel rq:pubsub:84724eb785f041e08135ced8f136bac3
+2025-05-02 15:28:03,058 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 15:41:33,126 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 15:41:33,129 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 15:41:33,130 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 15:53:10,486 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Client Site Scripting doctype', 'name': 'PR-0012'}, method='frappe.model.delete_doc.delete_dynamic_links', site='site1.local', user='Administrator') (site1.local::701e9880-9fcf-44d6-887c-705074b901b7)
+2025-05-02 15:53:10,590 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::701e9880-9fcf-44d6-887c-705074b901b7)
+2025-05-02 15:53:10,591 Result is kept for 600 seconds
+2025-05-02 16:06:40,713 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 16:06:40,715 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 16:06:40,716 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 16:14:25,253 Users-upforcetech-Desktop-Frappe-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Client Site Scripting doctype', 'name': 'PR-0005'}, method='frappe.model.delete_doc.delete_dynamic_links', site='site1.local', user='Administrator') (site1.local::51762dbe-1284-4bae-af9a-8820184f75b5)
+2025-05-02 16:14:25,318 Users-upforcetech-Desktop-Frappe-frappe-bench:default: Job OK (site1.local::51762dbe-1284-4bae-af9a-8820184f75b5)
+2025-05-02 16:14:25,319 Result is kept for 600 seconds
+2025-05-02 16:34:40,470 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 16:34:40,474 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 16:34:40,475 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 17:01:40,687 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 17:01:40,689 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 17:01:40,690 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 17:28:40,970 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 17:28:40,974 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 17:28:40,975 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 17:55:41,128 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 17:55:41,132 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 17:55:41,133 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 18:22:41,313 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 18:22:41,317 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 18:22:41,318 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 18:25:09,789 Worker 84724eb785f041e08135ced8f136bac3 [PID 46669]: warm shut down requested
+2025-05-02 18:25:09,800 Unsubscribing from channel rq:pubsub:84724eb785f041e08135ced8f136bac3
+2025-05-02 18:25:15,671 Worker rq:worker:12163be306124fbfb3f7ad968fc0d403 started with PID 52947, version 1.15.1
+2025-05-02 18:25:15,671 Subscribing to channel rq:pubsub:12163be306124fbfb3f7ad968fc0d403
+2025-05-02 18:25:15,671 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 18:38:26,648 Worker 12163be306124fbfb3f7ad968fc0d403 [PID 52947]: warm shut down requested
+2025-05-02 18:38:26,662 Unsubscribing from channel rq:pubsub:12163be306124fbfb3f7ad968fc0d403
+2025-05-02 18:38:46,885 Worker rq:worker:8571325adf7b438093200ff967dff44f started with PID 53580, version 1.15.1
+2025-05-02 18:38:46,885 Subscribing to channel rq:pubsub:8571325adf7b438093200ff967dff44f
+2025-05-02 18:38:46,885 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 18:38:46,886 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 18:38:46,886 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 18:38:46,887 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 18:50:27,990 Worker 8571325adf7b438093200ff967dff44f [PID 53580]: warm shut down requested
+2025-05-02 18:50:27,998 Unsubscribing from channel rq:pubsub:8571325adf7b438093200ff967dff44f
+2025-05-02 18:50:37,077 Worker rq:worker:ae5fa528f45349a08e805a2171ef3e48 started with PID 54260, version 1.15.1
+2025-05-02 18:50:37,077 Subscribing to channel rq:pubsub:ae5fa528f45349a08e805a2171ef3e48
+2025-05-02 18:50:37,078 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-02 19:04:07,155 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 19:04:07,159 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 19:04:07,160 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 19:26:10,395 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 19:26:10,506 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 19:26:10,509 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 19:53:06,336 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 19:53:06,337 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 19:53:06,338 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 20:09:39,299 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 20:09:39,300 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 20:09:39,301 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 20:27:38,266 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 20:27:38,266 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 20:27:38,267 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 20:43:58,207 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 20:43:58,208 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 20:43:58,209 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 21:04:21,166 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 21:04:21,268 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 21:04:21,277 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 21:24:09,114 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 21:24:09,221 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 21:24:09,222 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 21:42:05,076 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 21:42:05,077 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 21:42:05,078 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 21:59:48,051 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 21:59:48,140 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 21:59:48,141 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 22:24:10,968 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 22:24:11,077 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 22:24:11,078 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 22:39:47,931 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 22:39:47,932 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 22:39:47,933 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 22:55:42,910 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 22:55:43,001 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 22:55:43,005 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 23:26:28,841 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 23:26:28,928 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 23:26:28,928 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 23:42:41,797 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 23:42:41,798 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 23:42:41,799 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-02 23:58:55,749 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-02 23:58:55,856 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-02 23:58:55,862 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 00:26:50,685 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 00:26:50,797 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 00:26:50,798 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 00:43:47,640 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 00:43:47,641 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 00:43:47,642 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 01:01:32,610 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 01:01:32,704 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 01:01:32,705 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 01:29:00,532 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 01:29:00,640 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 01:29:00,641 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 01:44:53,509 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 01:44:53,510 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 01:44:53,511 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 02:01:30,480 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 02:01:30,561 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 02:01:30,561 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 02:28:26,395 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 02:28:26,498 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 02:28:26,499 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 02:43:40,354 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 02:43:40,355 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 02:43:40,356 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 03:00:18,310 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 03:00:18,420 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 03:00:18,421 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 03:34:34,247 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 03:34:34,341 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 03:34:34,342 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 03:50:52,212 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 03:50:52,213 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 03:50:52,213 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 04:06:01,156 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 04:06:01,267 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 04:06:01,268 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 04:30:39,097 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 04:30:39,207 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 04:30:39,208 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 04:48:19,067 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 04:48:19,067 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 04:48:19,068 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 05:04:12,026 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 05:04:12,129 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 05:04:12,130 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 05:31:54,963 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 05:31:55,061 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 05:31:55,061 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 05:48:44,923 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 05:48:44,925 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 05:48:44,925 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 06:06:34,888 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 06:06:34,980 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 06:06:34,980 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 06:40:01,802 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 06:40:01,897 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 06:40:01,897 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 06:57:01,757 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 06:57:01,758 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 06:57:01,759 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 07:13:13,726 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 07:13:13,727 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 07:13:13,728 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 07:33:15,668 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 07:33:15,773 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 07:33:15,774 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 07:55:10,216 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 07:55:10,310 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 07:55:10,311 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 08:11:39,704 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 08:11:39,704 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 08:11:39,705 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 08:41:01,789 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 08:41:01,862 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 08:41:01,863 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 08:59:13,299 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 08:59:13,407 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 08:59:13,408 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 09:15:10,320 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 09:15:10,320 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 09:15:10,321 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 09:35:10,759 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 09:35:10,864 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 09:35:10,865 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 09:51:58,224 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 09:51:58,326 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 09:51:58,327 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 10:07:39,113 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 10:07:39,114 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 10:07:39,114 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 10:37:06,036 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 10:37:06,148 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 10:37:06,148 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 10:53:40,019 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 10:53:40,019 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 10:53:40,020 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 11:11:10,987 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 11:11:11,078 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 11:11:11,079 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 11:20:33,891 Worker ae5fa528f45349a08e805a2171ef3e48 [PID 54260]: warm shut down requested
+2025-05-03 11:20:33,910 Unsubscribing from channel rq:pubsub:ae5fa528f45349a08e805a2171ef3e48
+2025-05-03 11:35:29,388 Worker rq:worker:07b0d2f069144627b195ff85847df02b started with PID 57416, version 1.15.1
+2025-05-03 11:35:29,388 Subscribing to channel rq:pubsub:07b0d2f069144627b195ff85847df02b
+2025-05-03 11:35:29,389 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-03 11:35:29,389 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 11:35:29,389 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 11:35:29,390 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 12:02:29,624 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 12:02:29,629 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 12:02:29,630 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 12:29:29,951 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 12:29:29,956 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 12:29:29,957 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 12:56:30,259 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 12:56:30,263 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 12:56:30,264 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 13:23:30,523 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 13:23:30,528 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 13:23:30,529 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 13:50:30,794 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 13:50:30,798 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 13:50:30,800 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 14:17:30,971 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 14:17:30,975 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 14:17:30,976 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 14:44:31,163 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 14:44:31,169 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 14:44:31,170 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 15:09:31,841 Worker 07b0d2f069144627b195ff85847df02b [PID 57416]: warm shut down requested
+2025-05-03 15:10:12,272 Worker rq:worker:6faf79104bd14843a2c12d3d3d085b56 started with PID 62753, version 1.15.1
+2025-05-03 15:10:12,272 Subscribing to channel rq:pubsub:6faf79104bd14843a2c12d3d3d085b56
+2025-05-03 15:10:12,273 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-03 15:10:12,273 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 15:10:12,274 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 15:10:12,274 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 15:37:12,544 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 15:37:12,551 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 15:37:12,553 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 15:48:59,103 Worker 6faf79104bd14843a2c12d3d3d085b56 [PID 62753]: warm shut down requested
+2025-05-03 15:49:09,196 Worker rq:worker:551cefed1e434cc9a08086cc2b2dafa9 started with PID 64017, version 1.15.1
+2025-05-03 15:49:09,196 Subscribing to channel rq:pubsub:551cefed1e434cc9a08086cc2b2dafa9
+2025-05-03 15:49:09,197 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-03 15:50:49,147 Worker 551cefed1e434cc9a08086cc2b2dafa9 [PID 64017]: warm shut down requested
+2025-05-03 15:50:49,158 Unsubscribing from channel rq:pubsub:551cefed1e434cc9a08086cc2b2dafa9
+2025-05-03 15:50:51,673 Worker rq:worker:15b867f19a2e4b8292925c0241032b65 started with PID 64170, version 1.15.1
+2025-05-03 15:50:51,673 Subscribing to channel rq:pubsub:15b867f19a2e4b8292925c0241032b65
+2025-05-03 15:50:51,674 *** Listening on Users-upforcetech-Desktop-Frappe-frappe-bench:short, Users-upforcetech-Desktop-Frappe-frappe-bench:default, Users-upforcetech-Desktop-Frappe-frappe-bench:long...
+2025-05-03 16:04:21,746 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 16:04:21,752 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 16:04:21,753 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 16:31:21,884 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 16:31:21,889 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 16:31:21,891 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 16:58:22,113 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 16:58:22,119 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 16:58:22,120 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 17:25:22,384 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 17:25:22,387 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 17:25:22,388 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 17:52:22,565 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 17:52:22,570 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 17:52:22,571 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 18:19:22,816 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 18:19:22,820 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 18:19:22,821 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 18:46:23,048 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 18:46:23,051 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 18:46:23,053 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 19:13:23,344 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 19:13:23,347 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 19:13:23,348 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 19:40:23,686 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 19:40:23,691 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 19:40:23,693 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 20:07:23,921 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 20:07:23,924 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 20:07:23,926 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 20:30:38,715 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 20:30:38,824 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 20:30:38,824 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 21:12:26,622 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 21:12:26,733 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 21:12:26,734 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 21:28:50,529 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 21:28:50,638 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 21:28:50,638 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 21:44:41,520 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 21:44:41,521 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 21:44:41,522 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 22:01:31,477 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 22:01:31,478 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 22:01:31,479 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 22:30:55,429 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 22:30:55,429 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 22:30:55,430 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 22:49:17,118 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 22:49:17,120 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 22:49:17,121 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 23:16:17,424 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 23:16:17,429 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 23:16:17,431 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 23:35:21,210 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 23:35:21,310 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 23:35:21,311 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-03 23:52:05,177 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-03 23:52:05,178 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-03 23:52:05,178 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 00:07:28,060 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 00:07:28,062 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 00:07:28,062 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 00:23:28,017 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 00:23:28,120 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 00:23:28,121 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 00:39:20,947 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 00:39:20,948 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 00:39:20,948 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 00:54:33,059 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 00:54:33,060 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 00:54:33,060 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 01:10:14,026 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 01:10:14,027 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 01:10:14,028 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 01:36:49,944 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 01:36:49,945 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 01:36:49,946 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 01:54:39,913 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 01:54:39,913 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 01:54:39,914 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 02:10:10,170 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 02:10:10,171 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 02:10:10,172 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 02:27:21,778 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 02:27:21,779 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 02:27:21,780 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 02:44:10,724 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 02:44:10,725 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 02:44:10,726 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 03:00:12,771 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 03:00:12,773 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 03:00:12,774 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 03:17:13,724 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 03:17:13,725 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 03:17:13,726 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 03:33:23,699 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 03:33:23,700 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 03:33:23,701 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 03:50:57,693 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 03:50:57,699 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 03:50:57,700 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 04:06:02,905 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 04:06:02,906 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 04:06:02,907 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 04:22:31,608 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 04:22:31,609 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 04:22:31,609 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 04:37:34,562 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 04:37:34,563 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 04:37:34,563 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 04:53:04,773 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 04:53:04,774 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 04:53:04,775 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 05:09:26,382 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 05:09:26,383 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 05:09:26,384 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 05:25:00,325 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 05:25:00,326 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 05:25:00,326 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 05:54:55,309 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 05:54:55,409 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 05:54:55,409 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 06:11:30,267 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 06:11:30,268 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 06:11:30,268 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 06:29:16,239 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 06:29:16,240 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 06:29:16,240 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 06:45:53,196 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 06:45:53,308 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 06:45:53,309 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 07:01:41,188 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 07:01:41,292 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 07:01:41,293 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 07:29:21,122 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 07:29:21,229 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 07:29:21,237 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 07:46:41,081 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 07:46:41,189 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 07:46:41,190 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 08:01:48,042 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 08:01:48,043 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 08:01:48,044 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 08:28:13,989 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 08:28:14,092 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 08:28:14,093 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 08:44:08,892 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 08:44:08,893 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 08:44:08,894 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 09:01:50,824 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 09:01:50,926 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 09:01:50,927 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 09:29:21,738 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 09:29:21,739 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 09:29:21,740 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 09:44:54,728 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 09:44:54,816 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 09:44:54,817 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 10:12:10,156 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 10:12:10,159 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 10:12:10,161 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 10:39:10,433 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 10:39:10,437 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 10:39:10,439 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 11:06:10,617 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 11:06:10,622 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 11:06:10,623 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 11:33:10,844 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 11:33:10,849 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 11:33:10,850 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 12:00:11,077 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 12:00:11,082 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 12:00:11,084 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 12:27:11,202 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 12:27:11,206 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 12:27:11,209 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 12:46:52,231 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 12:46:52,233 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 12:46:52,234 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 13:07:36,366 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 13:07:36,368 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 13:07:36,369 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 13:25:14,341 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 13:25:14,341 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 13:25:14,342 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 13:41:46,321 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 13:41:46,322 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 13:41:46,322 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 13:58:36,307 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 13:58:36,308 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 13:58:36,309 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 14:19:04,264 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 14:19:04,265 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 14:19:04,267 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 14:35:06,261 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 14:35:06,262 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 14:35:06,263 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 14:50:12,229 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 14:50:12,230 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 14:50:12,230 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 15:05:51,198 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 15:05:51,199 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 15:05:51,200 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 15:36:31,162 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 15:36:31,163 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 15:36:31,163 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 15:53:01,134 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 15:53:01,135 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 15:53:01,135 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 16:08:51,112 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 16:08:51,113 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 16:08:51,114 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 16:47:12,060 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 16:47:12,160 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 16:47:12,161 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 17:04:17,033 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 17:04:17,034 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 17:04:17,034 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 17:21:28,009 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 17:21:28,010 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 17:21:28,011 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 17:39:27,984 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 17:39:27,985 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 17:39:27,986 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 18:01:25,951 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 18:01:25,952 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 18:01:25,952 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 18:16:50,929 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 18:16:50,930 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 18:16:50,931 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 18:37:39,899 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 18:37:40,007 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 18:37:40,008 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 18:54:18,879 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 18:54:18,880 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 18:54:18,880 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 19:14:21,263 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 19:14:21,264 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 19:14:21,265 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 19:33:18,169 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 19:33:18,170 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 19:33:18,171 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 19:49:59,207 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 19:49:59,208 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 19:49:59,209 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 20:24:28,287 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 20:24:28,288 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 20:24:28,289 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 20:42:08,172 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 20:42:08,173 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 20:42:08,174 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 20:57:16,142 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 20:57:16,143 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 20:57:16,144 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 21:13:36,097 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 21:13:36,098 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 21:13:36,099 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 21:36:30,846 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 21:36:30,847 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 21:36:30,848 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 21:52:08,537 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 21:52:08,538 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 21:52:08,539 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 22:07:58,006 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 22:07:58,007 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 22:07:58,007 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 22:26:28,937 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 22:26:29,034 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 22:26:29,036 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 22:41:57,862 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 22:41:57,863 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 22:41:57,863 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 22:58:27,829 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 22:58:27,830 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 22:58:27,830 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 23:16:34,782 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 23:16:34,784 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 23:16:34,785 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 23:43:08,745 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 23:43:08,835 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 23:43:08,835 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-04 23:59:25,693 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-04 23:59:25,694 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-04 23:59:25,695 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 00:17:20,662 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 00:17:20,754 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 00:17:20,756 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 00:45:26,611 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 00:45:26,690 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 00:45:26,691 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 01:00:41,550 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 01:00:41,550 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 01:00:41,551 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 01:17:54,504 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 01:17:54,602 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 01:17:54,602 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 01:34:19,445 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 01:34:19,446 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 01:34:19,447 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 01:51:33,399 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 01:51:33,506 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 01:51:33,507 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 02:08:49,361 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 02:08:49,363 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 02:08:49,363 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 02:24:39,336 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 02:24:39,429 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 02:24:39,430 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 02:39:51,302 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 02:39:51,303 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 02:39:51,304 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 02:57:07,269 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 02:57:07,368 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 02:57:07,368 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 03:14:42,229 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 03:14:42,322 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 03:14:42,323 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 03:32:10,192 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 03:32:10,192 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 03:32:10,193 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 03:49:07,137 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 03:49:07,235 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 03:49:07,255 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 04:06:21,093 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 04:06:21,094 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 04:06:21,095 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 04:37:18,978 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 04:37:19,071 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 04:37:19,072 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 04:53:49,932 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 04:53:50,036 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 04:53:50,048 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 05:10:06,912 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 05:10:07,008 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 05:10:07,009 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 05:42:55,808 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 05:42:55,918 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 05:42:55,919 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 05:59:09,782 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 05:59:09,880 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 05:59:09,892 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 06:17:09,737 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 06:17:09,842 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 06:17:09,842 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 06:38:52,680 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 06:38:52,777 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 06:38:52,779 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 06:54:35,626 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 06:54:35,627 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 06:54:35,627 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 07:12:18,576 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 07:12:18,673 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 07:12:18,682 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 07:39:20,487 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 07:39:20,592 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 07:39:20,593 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 07:54:51,359 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 07:54:51,465 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 07:54:51,466 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 08:09:57,394 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 08:09:57,395 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 08:09:57,396 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 08:39:08,736 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 08:39:08,830 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 08:39:08,831 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 08:54:44,247 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 08:54:44,354 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 08:54:44,355 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 09:12:36,235 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 09:12:36,327 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 09:12:36,328 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 09:40:31,184 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 09:40:31,282 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 09:40:31,283 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 10:04:07,032 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 10:04:07,127 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 10:04:07,127 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 10:22:21,035 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 10:22:21,134 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 10:22:21,135 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 10:43:12,023 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 10:43:12,132 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 10:43:12,133 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 11:10:34,219 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 11:10:34,225 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 11:10:34,227 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 11:37:34,448 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 11:37:34,456 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 11:37:34,458 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 12:04:34,704 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 12:04:34,707 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 12:04:34,708 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 12:31:35,007 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:short
+2025-05-05 12:31:35,012 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:default
+2025-05-05 12:31:35,013 Cleaning registries for queue: Users-upforcetech-Desktop-Frappe-frappe-bench:long
+2025-05-05 12:50:28,160 Worker 15b867f19a2e4b8292925c0241032b65 [PID 64170]: warm shut down requested
+2025-05-05 12:50:28,177 Unsubscribing from channel rq:pubsub:15b867f19a2e4b8292925c0241032b65
